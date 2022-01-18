@@ -45,7 +45,11 @@ h3 {
     width: 320px;
     margin: 20px;
     padding: 20px;
-    background-color:rgb(189, 185, 172) ;
+    background-color:rgb(189, 185, 172);
+}
+.flex div p {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .flex div img {
     height: 250px;
